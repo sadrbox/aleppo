@@ -13,3 +13,7 @@
 		@apply bg-blue-400;
 	}
 }
+.html,
+body {
+	font-family: "Montserrat", sans-serif;
+}
